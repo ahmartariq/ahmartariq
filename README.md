@@ -11,7 +11,7 @@
 
 - 🧑‍🎨 I occasionally Design User Interfaces and Graphic Designs [https://www.behance.net/ahmartariq](https://www.behance.net/ahmartariq)
 
-- Ask me About **Frontend**
+- Ask me About **CUSTOM SOLUTIONS**
 
 - 📫 How to reach me **ahmartariq46@yahoo.com**
 
