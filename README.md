@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **A Frontend Developer on React**
 
-- 🌱 I’m currently learning **ReactJS, Node.JS and Express.JS**
+- 🌱 I’m currently learning **SYSTEM ARCHITECTURE**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmartariq](https://github.com/ahmartariq)
 
